@@ -1,4 +1,4 @@
-#Transmission 1.6.1 中文Web-UI
+## 功能说明：Transmission 1.6.1 中文Web-UI
 
 ```bash
 sudo -i
